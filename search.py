@@ -43,7 +43,7 @@ col1, col2 = st.columns([1, 2])
 # User Interaction Section in col1
 with col1:
     st.markdown("""
-        <div style='text-align: center; background-color: white; border-radius: 5px; padding: 5px;'>
+        <div style='text-align: center; background-color: gray; border-radius: 5px; padding: 5px;'>
             <h2 style='color: black;'>Electronic Repair Search Gate</h2>
         </div>
     """, unsafe_allow_html=True)
