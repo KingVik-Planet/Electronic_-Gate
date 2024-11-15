@@ -75,7 +75,7 @@ with col2:
         if filtered_shops:
             best_shop = filtered_shops[0]
             result_placeholder.success(f"Based on your input, the best shop for your needs is {best_shop['name']}.")
-            st.write(f"**Name:** {best_shop['description']}")
+            st.write(f"**Name:** {best_shop['name']}")
             st.write(f"**Phone:** {best_shop['phone']}")
             st.write(f"**Address:** {best_shop['address']}")
             st.write(f"**Price Range:** {best_shop['price_ranges']}")
