@@ -52,7 +52,7 @@ with col2:
          "Repair Desktop"]
     )
 
-    budget = st.number_input("Enter your budget (Min of RWF100):", min_value=0, step=100)
+    budget = st.number_input("Enter your budget (Min of RWF100):", min_value=0, step=500)
     payment_method = st.radio("To Optimize your Search, Tell us How do you want to pay?", ["Cash", "Card", "Momo","Bank Tranfer"])
     vip_service = st.checkbox("Do you want a home service?")
 
