@@ -39,16 +39,18 @@ col1, col2 = st.columns([1, 2])
 # User Interaction Section in col1
 with col1:
     st.markdown("""
-        <div style='text-align: left; background-color: lightgreen; border-radius: 5px; padding: 5px;'>
-            <h3 style='color: blue;'>Electronic Repair Search Gate</h3>
+        <div style='text-align: center; background-color: lightgreen; border-radius: 5px; padding: 5px;'>
+            <h2 style='color: blue;'>Electronic Repair Search Gate</h2>
         </div>
     """, unsafe_allow_html=True)
     st.subheader("We Help you to get the best Service")
+    st.image("images/Electronic.jpg", width=345)
+
 with col2:
     # User input
     service = st.selectbox(
-        "Select the service you want that best fit your search:",
-        ["Repair phone", "Repair Television", "Repair charger", "Repair refrigerator", "Repair Generator", "Repair Laptop",
+        "Select the service you want that best fit your search from the dropdown:",
+        ["select", "Repair phone", "Repair Television", "Repair charger", "Repair refrigerator", "Repair Generator", "Repair Laptop",
          "Repair Desktop"]
     )
 
