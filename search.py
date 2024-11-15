@@ -50,7 +50,7 @@ with col2:
     # User input
     service = st.selectbox(
         "Select the service you want that best fit your search from the dropdown:",
-        ["select", "Repair phone", "Repair Television", "Repair charger", "Repair refrigerator", "Repair Generator", "Repair Laptop",
+        ["Repair phone", "Repair Television", "Repair charger", "Repair refrigerator", "Repair Generator", "Repair Laptop",
          "Repair Desktop"]
     )
 
@@ -98,3 +98,5 @@ with col1, col2:
         st_folium(shop_map, width=700, height=500)
     else:
         st.info("Map will display here once you find a shop.The Map will Guide you to the Shop")
+
+#pip install -r requirements.txt
