@@ -44,7 +44,7 @@ col1, col2 = st.columns([1, 2])
 with col1:
     st.markdown("""
         <div style='text-align: center; background-color: gray; border-radius: 5px; padding: 5px;'>
-            <h1 style='color: black;'>Electronic Repair Search Gate</h1>
+            <h1 style='color: black;'>Electronic Technical Repair Shop</h1>
         </div>
     """, unsafe_allow_html=True)
     st.subheader("We Help you to get the best Service")
@@ -58,7 +58,7 @@ with col2:
     )
 
     budget = st.number_input("Enter your budget (Min of RWF100):", min_value=0, step=500)
-    payment_method = st.radio("To Optimize your Search, Tell us How do you want to pay?", ["Cash", "Card", "Momo", "Bank Transfer"])
+    # payment_method = st.radio("To Optimize your Search, Tell us How do you want to pay?", ["Cash", "Card", "Momo", "Bank Transfer"])
     vip_service = st.checkbox("Do you want a home service?")
 
     # Placeholder for the results
