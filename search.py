@@ -30,7 +30,81 @@ shops = [
         "phone": "+250 728 789 012",
         "address": "89 KK 23 Rd",
         "price_ranges": "rwf 3000 - 20000"
+    },
+    {
+        "name": "Techno Technical Repair Shop",
+        "latitude": -1.960279,
+        "longitude": 30.090556,
+        "description": "Sells phone accessories.",
+        "phone": "+250 727 391 943",
+        "address": "50 KK 15 Rd",
+        "price_ranges": "rwf 1000 -10000 "
+    },
+    {
+        "name": "electronics_repair",
+        "latitude": -1.960278,
+        "longitude": 30.080606,
+        "description": "Sells second hand computers.",
+        "phone": "+250 728 789 012",
+        "address": "70 KN 10 Rd",
+        "price_ranges": "rwf 50000 - 250000"
+    },
+    {
+        "name": "Fis Repair Shop",
+        "latitude": -1.960278,
+        "longitude": 30.080706,
+        "description": "Sells computers and accessories.",
+        "phone": "+250 722 414 150",
+        "address": "89 KG 45 Rd",
+        "price_ranges": "rwf 30000 - 40000"
+    },
+    {
+        "name": "Kitchen Electrics",
+        "latitude": -1.960278,
+        "longitude": 30.081156,
+        "description": "Repairs computers.",
+        "phone": "+250 734 324 103",
+        "address": "92 KK 20 Rd",
+        "price_ranges": "rwf 10000 - 100000"
+    },
+    {
+        "name": "Kappo Tech",
+        "latitude": -1.960278,
+        "longitude": 30.082556,
+        "description": "Repairs computers.",
+        "phone": "+250 734 324 105",
+        "address": "65 KG 45 Rd",
+        "price_ranges": "rwf 5000 - 50000"
+    },
+    {
+        "name": "FilosTech",
+        "latitude": -1.960278,
+        "longitude": 30.080560,
+        "description": "We repair Digital TVs.",
+        "phone": "+250 728 789 012",
+        "address": "30 KN 70 Rd",
+        "price_ranges": "rwf 100000 - 400000"
+    },
+    {
+        "name": "BiremeraShop",
+        "latitude": -1.960278,
+        "longitude": 30.085556,
+        "description": "we sell phone lcds, Bluetooth radio, Fridge repair, Charger Repair.",
+        "phone": "+250 728 789 011",
+        "address": "50 Kk 29 Rd",
+        "price_ranges": "rwf 1000 - 100000"
+    },
+    {
+        "name": "PhilosShop",
+        "latitude": -1.960278,
+        "longitude": 30.084556,
+        "description": " Sells electronic devices.",
+        "phone": "+250 786 200 749",
+        "address": "10 KN 23 Rd",
+        "price_ranges": "rwf 500 - 2500"
     }
+
+
 ]
 
 # Initialize session state for search results
