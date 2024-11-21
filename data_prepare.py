@@ -17,7 +17,7 @@ data = pd.DataFrame(shops)
 data['service'] = [0, 1, 1]  # Dummy service feature
 data['budget'] = [2000, 10000, 5000]  # User budget
 data['payment_method'] = [0, 1, 0]  # Dummy payment method feature
-data['vip_service'] = [1, 0, 1]  # Dummy VIP service feature
+data['vip_service'] = [1, 0, 1]  # Dummy Home service feature
 
 # Label the shop index (this is what to predict)
 data['shop_index'] = data.index

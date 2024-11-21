@@ -11,7 +11,7 @@ shops = [
         "description": "Sells and buys used electronic devices.",
         "phone": "+250 728 294 682",
         "address": "12 KN 121 Street",
-        "price_ranges": "rwf 1200 - 5000"
+        "price_ranges": "rwf 1000 - 2000"
     },
     {
         "name": "ElectroHub",
@@ -20,7 +20,7 @@ shops = [
         "description": "Specializes in new and used electronic devices.",
         "phone": "+250 728 123 456",
         "address": "45 KG 14 Ave",
-        "price_ranges": "rwf 2000 - 15000"
+        "price_ranges": "rwf 2000 - 4000"
     },
     {
         "name": "TechMart",
@@ -29,7 +29,7 @@ shops = [
         "description": "Offers a wide range of electronic gadgets.",
         "phone": "+250 728 789 012",
         "address": "89 KK 23 Rd",
-        "price_ranges": "rwf 3000 - 20000"
+        "price_ranges": "rwf 3000 - 7000"
     },
     {
         "name": "Techno Technical Repair Shop",
@@ -38,7 +38,7 @@ shops = [
         "description": "Sells phone accessories.",
         "phone": "+250 727 391 943",
         "address": "50 KK 15 Rd",
-        "price_ranges": "rwf 1000 -10000 "
+        "price_ranges": "rwf 6500 -10000 "
     },
     {
         "name": "electronics_repair",
@@ -47,7 +47,7 @@ shops = [
         "description": "Sells second hand computers.",
         "phone": "+250 728 789 012",
         "address": "70 KN 10 Rd",
-        "price_ranges": "rwf 50000 - 250000"
+        "price_ranges": "rwf 9000 - 13000"
     },
     {
         "name": "Fis Repair Shop",
@@ -56,7 +56,7 @@ shops = [
         "description": "Sells computers and accessories.",
         "phone": "+250 722 414 150",
         "address": "89 KG 45 Rd",
-        "price_ranges": "rwf 30000 - 40000"
+        "price_ranges": "rwf 13000 - 15000"
     },
     {
         "name": "Kitchen Electrics",
@@ -65,7 +65,7 @@ shops = [
         "description": "Repairs computers.",
         "phone": "+250 734 324 103",
         "address": "92 KK 20 Rd",
-        "price_ranges": "rwf 10000 - 100000"
+        "price_ranges": "rwf 15000 - 20000"
     },
     {
         "name": "Kappo Tech",
@@ -74,7 +74,7 @@ shops = [
         "description": "Repairs computers.",
         "phone": "+250 734 324 105",
         "address": "65 KG 45 Rd",
-        "price_ranges": "rwf 5000 - 50000"
+        "price_ranges": "rwf 20000 - 25000"
     },
     {
         "name": "FilosTech",
@@ -83,7 +83,7 @@ shops = [
         "description": "We repair Digital TVs.",
         "phone": "+250 728 789 012",
         "address": "30 KN 70 Rd",
-        "price_ranges": "rwf 100000 - 400000"
+        "price_ranges": "rwf 24000 - 30000"
     },
     {
         "name": "BiremeraShop",
@@ -92,7 +92,7 @@ shops = [
         "description": "we sell phone lcds, Bluetooth radio, Fridge repair, Charger Repair.",
         "phone": "+250 728 789 011",
         "address": "50 Kk 29 Rd",
-        "price_ranges": "rwf 1000 - 100000"
+        "price_ranges": "rwf 29000 - 50000"
     },
     {
         "name": "PhilosShop",
@@ -101,7 +101,7 @@ shops = [
         "description": " Sells electronic devices.",
         "phone": "+250 786 200 749",
         "address": "10 KN 23 Rd",
-        "price_ranges": "rwf 500 - 2500"
+        "price_ranges": "rwf 50000 - 1250000"
     }
 
 
