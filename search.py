@@ -41,7 +41,7 @@ shops = [
         "price_ranges": "rwf 6500 -10000 "
     },
     {
-        "name": "electronics_repair",
+        "name": "Electronics_repair",
         "latitude": -1.960278,
         "longitude": 30.080606,
         "description": "Sells second hand computers.",
@@ -50,7 +50,7 @@ shops = [
         "price_ranges": "rwf 9000 - 13000"
     },
     {
-        "name": "Fis Repair Shop",
+        "name": "FIS Repair Shop",
         "latitude": -1.960278,
         "longitude": 30.080706,
         "description": "Sells computers and accessories.",
@@ -103,7 +103,6 @@ shops = [
         "address": "10 KN 23 Rd",
         "price_ranges": "rwf 50000 - 1250000"
     }
-
 
 ]
 
